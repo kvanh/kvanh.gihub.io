@@ -1,6 +1,8 @@
-# Kevin's GitHub Pages
+---
+title: Kevin's GitHub Pates
+---
 
 Links to my projects:
-* PowerShell Scripts
-* Keyboard Maestro Scripts
-* Keyboard Maestro Pushover Plug-In
+* [ProjectWise PowerShell](https://github.com/kvanh/ProjectWise)
+* [Keyboard Maestro Macros](https://github.com/kvanh/Keyboard-Maestro-Macros)
+* [Keyboard Maestro Pushover Plug-In](https://github.com/kvanh/Keyboard-Maestro-Pushover-Notifications)
