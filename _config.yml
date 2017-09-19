@@ -1,1 +1,14 @@
-theme: jekyll-theme-slate
+default:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      theme: jekyll-theme-slate
+  -
+    scope:
+      path: "keyboard-maestro"
+      type: "posts"
+    values:
+      layout: "default"

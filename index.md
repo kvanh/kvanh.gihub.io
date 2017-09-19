@@ -1,5 +1,5 @@
 ---
-title: Kevin's GitHub Pates
+title: Kevin's GitHub Pages
 ---
 
 Links to my projects:
